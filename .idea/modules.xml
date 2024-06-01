@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/UnimpDemo.iml" filepath="$PROJECT_DIR$/.idea/modules/UnimpDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.iml" filepath="$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TestComponent/UnimpDemo.TestComponent.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.iml" filepath="$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.main.iml" filepath="$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/TestModule/UnimpDemo.TestModule.unitTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.androidTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.main.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/app/UnimpDemo.app.unitTest.iml" />
+    </modules>
+  </component>
+</project>

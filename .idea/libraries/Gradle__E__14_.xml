@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: E (14)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/5a611b1f124f7ef87ad21be537fd9071/transformed/jetified-payment-weixin-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/5a611b1f124f7ef87ad21be537fd9071/transformed/jetified-payment-weixin-release/res" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/5a611b1f124f7ef87ad21be537fd9071/transformed/jetified-payment-weixin-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

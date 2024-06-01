@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: E (23)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/23e9695633032000f2e1230ff59e0b90/transformed/jetified-statistic-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/23e9695633032000f2e1230ff59e0b90/transformed/jetified-statistic-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

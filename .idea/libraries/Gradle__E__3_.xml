@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: E (3)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/8bb2354967d1560c368f48f459dbc620/transformed/jetified-Bluetooth-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/8bb2354967d1560c368f48f459dbc620/transformed/jetified-Bluetooth-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

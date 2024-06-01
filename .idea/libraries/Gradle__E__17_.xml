@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: E (17)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/cf674bc09b9dfbcc99144654caf26650/transformed/jetified-share-sina-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/cf674bc09b9dfbcc99144654caf26650/transformed/jetified-share-sina-release/res" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/cf674bc09b9dfbcc99144654caf26650/transformed/jetified-share-sina-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

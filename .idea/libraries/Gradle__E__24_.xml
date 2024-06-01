@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: E (24)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/c4e58aacb39a6076396117d1e07f3ee4/transformed/jetified-statistic-umeng-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/c4e58aacb39a6076396117d1e07f3ee4/transformed/jetified-statistic-umeng-release/res" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/c4e58aacb39a6076396117d1e07f3ee4/transformed/jetified-statistic-umeng-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

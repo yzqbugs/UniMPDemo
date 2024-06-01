@@ -1,0 +1,51 @@
+apply plugin: 'com.android.library'
+
+android {
+    compileSdk  33
+
+namespace "io.dcloud.uniplugin.module"
+
+    defaultConfig {
+        minSdkVersion 19
+        targetSdkVersion 26
+        versionCode 1
+        versionName "1.0"
+
+        testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
+    }
+
+    sourceSets {
+        main {
+            res.srcDirs=[
+                     'src/main/res'
+            ]
+            aidl.srcDirs = [
+                    'src/main/java'
+            ]
+
+            java.srcDirs = [
+                    'src/main/java'
+            ]
+        }
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled true
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+
+}
+
+
+
+dependencies {
+    //必须添加的依赖
+    compileOnly 'androidx.recyclerview:recyclerview:1.1.0'
+    compileOnly "androidx.appcompat:appcompat:1.1.0"
+    compileOnly "androidx.legacy:legacy-support-v4:1.0.0"
+    compileOnly 'com.alibaba:fastjson:1.2.66'
+
+    compileOnly fileTree(include: ['uniapp-v8-release.aar'], dir: '../app/libs')
+}

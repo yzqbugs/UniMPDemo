@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: E (28)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/62ebf137999ec82140f6383264d5fed1/transformed/jetified-weex_gcanvas-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/62ebf137999ec82140f6383264d5fed1/transformed/jetified-weex_gcanvas-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

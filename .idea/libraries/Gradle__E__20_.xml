@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: E (20)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/fe29ee110ae364a8c822157f0a7177bb/transformed/jetified-speech_baidu-release/jars/classes.jar!/" />
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/fe29ee110ae364a8c822157f0a7177bb/transformed/jetified-speech_baidu-release/jars/libs/bdasr_V3_20191210_81acdf5.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/fe29ee110ae364a8c822157f0a7177bb/transformed/jetified-speech_baidu-release/res" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/fe29ee110ae364a8c822157f0a7177bb/transformed/jetified-speech_baidu-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: E (11)" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/908d1e33a87d618c7be2f6372d17e0a6/transformed/jetified-media-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/908d1e33a87d618c7be2f6372d17e0a6/transformed/jetified-media-release/jars/classes.jar!/" />
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/908d1e33a87d618c7be2f6372d17e0a6/transformed/jetified-media-release/jars/libs/danmaku-flame-0.6.2.jar!/" />
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/908d1e33a87d618c7be2f6372d17e0a6/transformed/jetified-media-release/jars/libs/ijkplayer.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/908d1e33a87d618c7be2f6372d17e0a6/transformed/jetified-media-release/res" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/908d1e33a87d618c7be2f6372d17e0a6/transformed/jetified-media-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: E (27)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/e8436c18026edef7ed301fa41467e092/transformed/jetified-webview-x5-release/jars/classes.jar!/" />
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/e8436c18026edef7ed301fa41467e092/transformed/jetified-webview-x5-release/jars/libs/tbs_sdk_thirdapp_v4.3.0.326_44226_sharewithdownloadwithfile_withoutGame_obfs_20220825_155943.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/e8436c18026edef7ed301fa41467e092/transformed/jetified-webview-x5-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

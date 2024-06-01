@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: E (25)" external-system-id="GRADLE">
+    <ANNOTATIONS>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/812dddbb0431072268dd0f8cd83fbd98/transformed/jetified-uniapp-v8-release/annotations.zip!/" />
+    </ANNOTATIONS>
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/812dddbb0431072268dd0f8cd83fbd98/transformed/jetified-uniapp-v8-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/812dddbb0431072268dd0f8cd83fbd98/transformed/jetified-uniapp-v8-release/res" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/812dddbb0431072268dd0f8cd83fbd98/transformed/jetified-uniapp-v8-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="Gradle: E (10)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/8b720e9a7be76e371a18f9fa215910e9/transformed/jetified-media-livepusher-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/8b720e9a7be76e371a18f9fa215910e9/transformed/jetified-media-livepusher-release/res" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/8b720e9a7be76e371a18f9fa215910e9/transformed/jetified-media-livepusher-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

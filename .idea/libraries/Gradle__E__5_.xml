@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: E (5)" external-system-id="GRADLE">
+    <CLASSES>
+      <root url="jar://D:/configuration/.gradle/caches/transforms-4/00de97cdc27c4f8230f5d424e41b0961/transformed/jetified-contacts-release/jars/classes.jar!/" />
+      <root url="file://D:/configuration/.gradle/caches/transforms-4/00de97cdc27c4f8230f5d424e41b0961/transformed/jetified-contacts-release/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
